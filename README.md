@@ -1,3 +1,8 @@
 # Masters-Course-Projects
-https://www.researchgate.net/project/Graduate-Course-projects
-Please explore my masters projects here
+- https://www.researchgate.net/publication/332738820_ECE_602_Project_Implementation_of_Network_Inference_via_the_Time-Varying_Graphical_Lasso
+- https://www.researchgate.net/publication/338017912_Machine_learning_for_optimal_power_flow
+- https://www.researchgate.net/publication/335703866_Short-term_Load_Forecasting_STLF_using_Dynamic_Time_Warping_DTW-based_Clustering_and_Long_Short-Term_Memory_LSTM_Neural_Networks
+- https://www.researchgate.net/publication/335703772_Short-term_forecasting_of_spike_occurrences_in_Ontario_Real-Time_Electricity_Price
+- https://www.researchgate.net/publication/335703772_Short-term_forecasting_of_spike_occurrences_in_Ontario_Real-Time_Electricity_Price
+
+
